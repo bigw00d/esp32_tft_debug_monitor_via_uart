@@ -9,6 +9,6 @@ This application send uart data as follows.
 |3  |Count1  |Incremental count  |
 |4  |Count2  |Incremental count  |
 |5  |Count3  |Incremental count  |
-|6  |VDD  |M5StickUARTV001  |
+|6  |VDD  |Incremental count(0 – 60)  |
 |no type  |-  |"I/ start sending"/"I/ wait response"  |
 

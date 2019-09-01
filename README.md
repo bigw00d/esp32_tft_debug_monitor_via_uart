@@ -1,7 +1,5 @@
 # esp32 tft debug monitor via uart
 
-====
-
 Debug Monitor via UART with Arduino ESP32
 
 ## Requirement
